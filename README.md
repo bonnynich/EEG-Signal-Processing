@@ -24,12 +24,12 @@ EEG Channel Names- 'Fp1', 'AF3', 'F3', 'F7', 'FC5', 'FC1', 'C3', 'T7', 'CP5', 'C
 This project will be following the data science O.S.E.M.N Methodology.
 
 O — Obtaining the data
-  1.1 Import Data
-  1.2 Initial Data Exploration
+1.1 Import Data
+1.2 Initial Data Exploration
 
 S — Scrubbing & Cleaning the data
-  2.1 Marking Bad Channels
-  2.2 Filtering bandpass
+2.1 Marking Bad Channels
+2.2 Filtering bandpass
   2.3 Detecting Artifacts
   2.4 Eliminating Artifacts
 
