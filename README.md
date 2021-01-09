@@ -27,6 +27,9 @@ O — Obtaining the data
 1.1 Import Data
 1.2 Initial Data Exploration
 
+1.1 Import Data
+1.2 Initial Data Exploration
+
 S — Scrubbing & Cleaning the data
 2.1 Marking Bad Channels
 2.2 Filtering bandpass
