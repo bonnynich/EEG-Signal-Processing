@@ -24,14 +24,14 @@ The dataset consists of:
 This project will be following the data science O.S.E.M.N Methodology.
 
 O — Obtaining the data
--Import Data
--Initial Data Exploration
+- Import Data
+- Initial Data Exploration
 
 S — Scrubbing & Cleaning the data
--Marking Bad Channels
--Filtering bandpass
--Detecting Artifacts
--Eliminating Artifacts
+- Marking Bad Channels
+- Filtering bandpass
+- Detecting Artifacts
+- Eliminating Artifacts
 
 E — Exploring the data
   3.1 Finding Epochs
