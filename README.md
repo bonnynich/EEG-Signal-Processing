@@ -13,11 +13,11 @@ Although EEG signals are routinely used for medical practice, this research is f
 The dataset was created by Queen Mary University of London and can be accessed at https://www.eecs.qmul.ac.uk/mmv/datasets/deap/index.html. The dataset is open for public use and requires signing a release form; therefore the dataset cannot be accessed through this github repository.
 The dataset consists of:
 
-32 Participants
-40 Channels (The first 32 channels are EEG)
-40 One-minute videos
-Labels: Valence, Arousal, Dominance, Liking, Familiarity, Order
-EEG Channel Names- 'Fp1', 'AF3', 'F3', 'F7', 'FC5', 'FC1', 'C3', 'T7', 'CP5', 'CP1', 'P3', 'P7', 'PO3', 'O1', 'Oz', 'Pz','Fp2', 'AF4', 'Fz', 'F4', 'F8', 'FC6', 'FC2', 'Cz', 'C4', 'T8', 'CP6', 'CP2', 'P4', 'P8', 'PO4', 'O2'
+1. 32 Participants
+2. 40 Channels (The first 32 channels are EEG)
+3. 40 One-minute videos
+4. Labels: Valence, Arousal, Dominance, Liking, Familiarity, Order
+4. EEG Channel Names- 'Fp1', 'AF3', 'F3', 'F7', 'FC5', 'FC1', 'C3', 'T7', 'CP5', 'CP1', 'P3', 'P7', 'PO3', 'O1', 'Oz', 'Pz','Fp2', 'AF4', 'Fz', 'F4', 'F8', 'FC6', 'FC2', 'Cz', 'C4', 'T8', 'CP6', 'CP2', 'P4', 'P8', 'PO4', 'O2'
 
 ## Methodology
 
