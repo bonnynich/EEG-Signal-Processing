@@ -34,19 +34,19 @@ S — Scrubbing & Cleaning the data
 - Eliminating Artifacts
 
 E — Exploring the data
-  3.1 Finding Epochs
-  3.2 Rejecting Epochs
-  3.3 Creating DataFrame
+- Finding Epochs
+- Rejecting Epochs
+- Creating DataFrame
 
 M — Modeling the data
-  4.1 K Nearest Neighbors
-  4.2 K Nearest Neighbors - Using best K
-  4.3 Decision Tree Classifier
-  4.4 Bagged Tree
-  4.5 Grid Search- Decision Tree Classifier
-  4.6 Random Forest Classifier
-  4.7 Grid Search- Random Forest Classifier
+- K Nearest Neighbors
+- K Nearest Neighbors - Using best K
+- Decision Tree Classifier
+- Bagged Tree
+- Grid Search- Decision Tree Classifier
+- Random Forest Classifier
+- Grid Search- Random Forest Classifier
 
 N — Interpreting the data
-  5.1 Conclusions
-  5.2 Moving Forward
+- Conclusions
+- Moving Forward
